@@ -1,1 +1,1 @@
-# P2_OC
+# Projet 2 Formation Développeur web OpenClassrooms
