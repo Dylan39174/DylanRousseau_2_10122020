@@ -40,6 +40,15 @@ h5{
 
 }
 
+.bluecolor a{
+
+	text-decoration: none;
+	list-style-type: none;
+	color: #0065FC;
+	font-weight: bold;
+
+}
+
 @media screen and (min-width: 1247px){
 
 body{
@@ -89,7 +98,7 @@ p{
 	width: 200%;
 	left: -90%;
 	display: flex;
-	margin:0px;
+	margin: 0px;
 	padding: 0px;
 	list-style-type: none;
 	justify-content: space-around;
